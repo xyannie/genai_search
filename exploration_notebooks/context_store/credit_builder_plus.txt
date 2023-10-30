@@ -1,0 +1,35 @@
+What is the product? (TL;DR)
+Credit Builder Plus (CB+) is a $19.99 credit-building membership service that lets MoneyLion users borrow a small amount of money, make monthly payments, and improve their score by paying off their loan. Loans are up to $1,000 and repaid over a period of 12 months. 
+
+What makes it differentiated? 
+Customers can access a portion of their loan funds right away to pay for urgent expenses. 
+Membership fees and loan payments to align with paycheck days to prevent any payment surprises.
+Fees can be paid off partly or in full with connection with LionShare program (e.g. Get a portion of your membership fee by being active and spending money with your RoarMoney account)
+
+Why are we building this product/feature? 
+JTBD: I want to reach my money goals (e.g. buy a house, apply for a nicer credit card, rent an apartment), but my credit is poor or not enough. I need to improve my credit, but I’m stuck and I don’t know how to do it with current financial tools.
+Value to consumer: 
+Potential to improve their credit score by 42+ points in 60 days.
+Get access to a portion of the loan to cover urgent expenses with 0% APR cash advances.
+Low cost when paired with Lionshare account.
+Monitor credit improvement progress to keep momentum
+Value to company: -
+Short term → Recurring monthly revenue stream ($19.99) with high margin and creates stickiness with the MoneyLion exosystem.
+Long Term → Package into WoW membership to be a stronger value add.
+
+How does it work? 
+Apply for a loan up to $1000 with no hard credit check, and receive a portion of your funds upfront in cash, while the rest saved for you in a Credit Reserve Account.
+Pay off your loan over 12 months. Make it easier by setting up automatic loan repayments timed to your pay cycle.
+Build positive credit history with on-time payments reported to all three credit bureaus every month.
+Track your progress by viewing your credit monitoring dashboard.
+Unlock your savings. Once the loan is fully paid off, you’ll receive the funds from your Credit Reserve Account to spend however you want.
+
+Who is the target customer? 
+Young adult with a limited or low credit history who is looking to build or repair their credit score.
+Age: 18-35
+Income: $30,000 - $60,000
+Credit score: Fair or poor
+Financial goals: Buy a car, rent an apartment, get a credit card
+Needs: Affordability, ease of use, accessibility
+Benefits: Improve credit score, build financial history, access to other financial services
+

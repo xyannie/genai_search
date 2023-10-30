@@ -1,0 +1,35 @@
+Crypto
+What is the product? (TLDR)
+With MoneyLion crypto, you can easily buy and sell Bitcoin, Ethereum, Litecoin, and Bitcoin Cash whenever you want. 
+
+Product features:
+Round Ups: Spend on your RoarMoney or any existing debit or credit card and invest your spare change into Bitcoin
+Auto Invest: Leverage dollar cost averaging by automatically investing in crypto on your custom schedule.
+MoneyLion Academy: Learn all about crypto in the app
+
+Why are we building this product/feature? 
+Make investing in crypto easy and accessible for anyone that wants to dip their toes into popular cryptocurrencies
+Help MoneyLion be the one-stop destination for all financial needs
+
+How does it work? 
+Download the MoneyLion app
+Open a RoarMoney account
+Open your crypto account
+Fund your RoarMoney account
+Invest in Bitcoin, Ethereum, Litecoin, or Bitcoin Cash
+
+
+Who is the target customer? 
+Priority Segment: MoneyLion users that want to invest in popular cryptocurrencies
+
+Who are they?
+Behavior: 
+How do they use this product? What does their typical day look like? Where does this product fit into their life? 
+Belief: 
+What beliefs do they hold relevant to this activity/product? 
+Want: 
+What are their motivations for using this kind of product? 
+
+What is the customer pain point / challenge? 
+Starting to invest in crypto for the first time can be challenging. Understanding crypto coins, blockchain technology, and wallets amidst a bear economy is a large hurdle for people to overcome. 
+

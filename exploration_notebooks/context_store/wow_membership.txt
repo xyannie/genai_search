@@ -1,0 +1,34 @@
+What is the product? (TLDR)
+MoneyLion WOW is a membership delivering users a premium experience that includes exclusive benefits across our suite of products, content, rewards and offers at $9.99 a month.
+Explore tab: membership dashboard featuring new weekly live events, money content, exclusive giveaways and a snapshot of benefits. 
+Benefits tab: Shows all the member exclusive products and benefits to activate, there are 2 products locked behind WOW paywall: (1) Credit Builder Loan which gives users the ability to build credit while improving their credit score and (2) Active Investing gives users full control to build and manage a custom portfolio of stocks and ETFs. 
+
+New exclusive WOW benefits:  
+Elevated content: Member-only access to join live stream events, engaging with top influencers and money content creators in the community to grow knowledge.
+Delight moments: Participate in weekly surprise giveaways featuring high-value items including limited-edition merch, tech and unique experiences.  
+
+Why are we building this product/feature? 
+Short-term: To reduce the churn rate of our most engaged users and find product-market fit selling a premium subscription model bundling products and benefits at a price of $9.99/month.
+Long-term: A way to build customer loyalty through exclusive benefits and drive overall user growth with the vision to become the only financial membership you’ll need to meet your money goals – ‘every time you money’.
+
+How does it work? 
+Currently, WOW is in limited public Beta release → only existing MoneyLion app users that are targeted & whitelisted can be activated. 
+Publicly anyone can sign up to join the waitlist www.moneylion.com/reserve/membership 
+Existing users are selected to activate, subject to product teams; exclusions are: 
+CB+ loan status = active → wait on migration due to revenue
+Once a user completes the $9.99 payment, their membership benefits will be activated for the month and automatically have access to WOW-exclusive benefits. 
+
+Who is the target customer? **See slide 10 in WOW Membership GTM Plan (working doc)
+
+Behavior: For Gen Z and millennials (ages 18-40) with low-moderate income looking to take control of their money and reach financial independence. 
+Belief: I don’t earn a lot of money, managing my personal finances can be stressful and complicated.
+Want: To build and grow future wealth and achieve financial independence.
+
+Messaging
+Positioning Statement
+For first-time investors who want to explore stock trading, but are risk averse or lack knowledge, Active Investing (Stocks and ETFs) provides a safe and easy way to build a custom portfolio with access to popular stocks & ETFs, no account minimums or commission fees, and as little as $5 to start.
+Affordable access: No commission fees on trades, no account minimums and the ability to start trading with just $5 in the account. 
+Safe and secure: MoneyLion’s platform is SIPC insured and registered broker-dealer regulated with DriveWealth.
+Grows knowledge: Stay informed with live market news, track price alerts and trending content in-feed to empower your investing decisions. 
+
+
